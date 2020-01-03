@@ -1,0 +1,9 @@
+{
+  "name": "ghpack-test",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:to-gth/ghpack-test.git",
+  "author": "to-gth <to.code01.g@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
